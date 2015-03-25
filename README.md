@@ -13,3 +13,4 @@ https://www.youtube.com/watch?v=OhPFgqHz68o by travis tidwell
 
 ## this application was built for purely educational purposes.
 I hope anytime in the future when i need reference, to go back and look at the code.
+and it doesn't hurt to gain experience in a craft, that i want to build a future on.
